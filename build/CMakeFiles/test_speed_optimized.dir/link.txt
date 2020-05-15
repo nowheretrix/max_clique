@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test_speed_optimized.dir/test/test_speed_optimized.o  -o test_speed_optimized -rdynamic libMax_Clique.a 

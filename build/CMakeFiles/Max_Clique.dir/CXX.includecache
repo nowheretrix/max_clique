@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/maxclique.hpp
+cstdio
+-
+cstring
+-
+
+/home/jyh/jyh/clique/new/src/maxclique.cpp
+cstdio
+-
+cstring
+-
+maxclique.hpp
+/home/jyh/jyh/clique/new/src/maxclique.hpp
+

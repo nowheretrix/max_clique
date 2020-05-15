@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMax_Clique.a  CMakeFiles/Max_Clique.dir/src/maxclique.o
+/usr/bin/ranlib libMax_Clique.a
